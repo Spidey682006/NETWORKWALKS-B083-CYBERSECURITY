@@ -183,6 +183,15 @@ Based on the observations from these exercises:
 9. Always perform reconnaissance and scanning within an explicitly authorized scope.
 
 ---
+# Zenmap Practice Lab Test results
+
+(1) Score
+![](Lab_score.png)
+
+(2) Answers
+![](Lab_answers.png)
+
+---
 
 # 📚 7. Key Learning Outcomes
 
