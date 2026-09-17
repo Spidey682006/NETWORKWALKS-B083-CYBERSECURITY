@@ -223,57 +223,55 @@ Add the corresponding screenshots from the practical work below.
 <details>
 <summary><b>WHOIS</b></summary>
 
-_Add WHOIS screenshot here._
+![](WHOIS.PNG)
 
 </details>
 
 <details>
 <summary><b>WhatWeb</b></summary>
 
-_Add WhatWeb screenshot here._
+![](WHATWEB.PNG)
 
 </details>
 
 <details>
 <summary><b>Nslookup</b></summary>
 
-_Add Nslookup screenshot here._
+![](NSLOOKUP.PNG)
 
 </details>
 
 <details>
 <summary><b>cURL</b></summary>
 
-_Add cURL screenshot here._
+![](cCURL.PNG)
 
 </details>
 
 <details>
 <summary><b>Wafw00f</b></summary>
 
-_Add Wafw00f screenshot here._
+![](WAFW00F.PNG)
 
 </details>
 
 <details>
 <summary><b>DNSRecon</b></summary>
 
-_Add DNSRecon screenshot here._
-
+![](DNSRECON.PNG)
 </details>
 
 <details>
 <summary><b>Zenmap Ping Scan</b></summary>
 
-_Add Zenmap scan screenshot here._
+![](ZENMAP_PING_SCAN.PNG)
 
 </details>
 
 <details>
 <summary><b>Zenmap Network Topology</b></summary>
 
-_Add Zenmap topology screenshot here._
-
+![](ZENMAP_TOPOLOGY.PNG)
 </details>
 
 ---
