@@ -296,12 +296,4 @@ Cybersecurity Professional | Networkwalks Intern | Batch B083
 **Program:** Cybersecurity – Networkwalks  
 **Date:** September 2026
 
----
 
-<div align="center">
-
-### 🛡️ CYBERSECURITY • ETHICAL HACKING • NETWORK SECURITY
-
-**Learn → Practice → Analyze → Secure**
-
-</div>
