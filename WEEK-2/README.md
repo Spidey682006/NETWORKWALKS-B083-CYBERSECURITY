@@ -1,6 +1,6 @@
 <div align="center">
   
-## Penetration Testing  — Week 2
+## Penetration Testing Report & Brief  — Week 2
 
  FOOTPRINTING & NETWORK SCANNING STAGES
 
