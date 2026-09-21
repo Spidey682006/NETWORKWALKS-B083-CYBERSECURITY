@@ -215,7 +215,7 @@ One important observation from the exercise was that passwords appearing in comm
 
 ## Security Recommendations
 
-Based on the practical, the following measures can help reduce exposure to dictionary-based password attacks:
+Based on the practical,the following measures can help reduce exposure to dictionary-based password attacks:
 
 * Use long and unpredictable passwords or passphrases.
 * Avoid common words and predictable password patterns.
@@ -261,6 +261,7 @@ Starting from password-hash extraction with `pdf2john`, I used John the Ripper a
 The same general process was also performed using Networkwalks' online tools, providing a useful comparison between a command-line cybersecurity workflow and a simplified web-based implementation.
 
 This exercise strengthened my understanding of **password security, hash extraction, wordlist attacks, John the Ripper, and practical security testing methodology**.
+
 
 ---
 
