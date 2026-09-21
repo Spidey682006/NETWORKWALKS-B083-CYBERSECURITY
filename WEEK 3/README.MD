@@ -262,7 +262,13 @@ The same general process was also performed using Networkwalks' online tools, pr
 
 This exercise strengthened my understanding of **password security, hash extraction, wordlist attacks, John the Ripper, and practical security testing methodology**.
 
-## Evidences
+### Evidences Attached Below:
+![](Screenshot_2026-09-21_17_08_16.png)
+![](Screenshot_2026-09-21_17_09_21.png)
+![](Screenshot_2026-09-21_16_09_22.png)
+![](Screenshot_2026-09-21_17_11_15.png)
+![](Screenshot_2026-09-21_17_12_56.png)
+![](Screenshot_2026-09-21_16_18_24.png)
 ---
 
 ### Week 3 Completed
