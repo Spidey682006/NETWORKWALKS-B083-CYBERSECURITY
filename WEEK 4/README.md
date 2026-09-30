@@ -108,7 +108,7 @@ The core deliverables and technical goals for this engagement included:
 
 * *Network Reconnaissance:*
   
-  * Executed Zenmap version and topology scans (`nmap -sV -p 53 medirozahospital.com` and `nmap -T4 -F 10.19.13.58`)[1][2].
+  * Executed Zenmap version and topology scans (`nmap -sV -p 53 medirozahospital.com` and `nmap -T4 -F 10.19.13.58`).
   
   * Mapped host IP addresses (`199.188.201.16` / `10.19.13.58`) and confirmed open port `53/tcp` (domain service).
 
@@ -170,23 +170,10 @@ pdf2john patient_report_3.pdf > pdf_mediroza3.txt
   * Navigated directly to `https://medirozahospital.com/old/` and confirmed open directory indexing enabled on the server.
   * Located and downloaded an unencrypted full database backup dump: **mediroza_db_backup_2019.sql**.
 * **Extracted Confidential Data:**
-  * **Employee Compensation (** **staff** **table)****:**
-    * **Dr. Johan van der Merwe** (Medical Director): `160,000 ZAR/month
-    * **Sarah Botha** (Chief Financial Officer): `152,000 ZAR/month`
-    * **Dr. Rajesh Naidoo** (Chief Pathologist): `138,000 ZAR/month`
-    * **Dr. Anita Naicker** (Consultant Cardiologist): `132,000 ZAR/month`
-    * **Dr. Ahmed Kara** (Consultant Physician): `128,000 ZAR/month`
-    * **Michael Roberts** (HR Director): `96,000 ZAR/month`
-    * **Dr. Yusuf Cassim** (Senior Registrar): `74,000 ZAR/month`
-  * **Shareholder Ownership Structure (** **shareholders** **table)** **:**
-    * **Dr. Rajesh Naidoo:** `18.0%` Ordinary shares (`180,000` shares)
-    * **Cedar Health Holdings (Pty) Ltd:** `15.0%` Ordinary shares (`150,000` shares)
-    * **Dr. Johan van der Merwe:** `12.8%` Ordinary shares (`128,000` shares)
-    * **Reddy Family Trust:** `11.0%` Ordinary shares (`110,000` shares)
-    * **Thabo Molefe:** `10.0%` Ordinary shares (`100,000` shares)
-    * **Sarah Botha:** `9.0%` Ordinary shares (`90,000` shares)
-    * **Dr. Ahmed Kara:** `8.0%` Preferential shares (`80,000` shares)
-    * **Naledi Zulu:** `7.0%` Ordinary shares (`70,000` shares)
+  * **Employee Compensation (** **staff** **table**).
+  
+  * **Shareholder Ownership Structure (** **shareholders** **table)**.
+    
 
 ---
 
@@ -218,7 +205,7 @@ Through this project, practical experience was gained in:
 
 1. **Remediate SQL Injection:** Implement parameterized queries (prepared statements) across all application database login handlers.
 
-2. **Disable Directory Indexing &amp; Clean Backups:** Disable directory browsing (`Options -Indexes` in Apache/LiteSpeed) and remove legacy database backup files (`*.sql`) from public web roots.
+2. **Disable Directory Indexing & Clean Backups:** Disable directory browsing (`Options -Indexes` in Apache/LiteSpeed) and remove legacy database backup files (`*.sql`) from public web roots.
 
 3. **Enforce Robust PDF Passphrases:** Mandate long, complex passphrases combining alphanumeric characters and special symbols, utilizing modern AES encryption.
 
