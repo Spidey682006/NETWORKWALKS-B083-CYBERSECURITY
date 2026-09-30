@@ -270,6 +270,7 @@ This exercise strengthened my understanding of **password security, hash extract
 ![](Screenshot_2026-09-21_17_12_56.png)
 ![](Screenshot_2026-09-21_16_18_24.png)
 ---
+## Evidences are attached below:
 
 ### Week 3 Completed
 
