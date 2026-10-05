@@ -1,4 +1,4 @@
-<div align="cent">
+<div align="center">
   
 ## Penetration Testing Report & Brief  — Week 2
 
